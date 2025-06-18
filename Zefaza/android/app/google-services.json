@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040268381854",
+    "project_id": "zefaza-real",
+    "storage_bucket": "zefaza-real.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040268381854:android:47ac6396691f69190b358f",
+        "android_client_info": {
+          "package_name": "com.zefaza.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89jxLCzgfxjLsx1YMASs2_z0I_8LXIik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
